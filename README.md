@@ -11,7 +11,7 @@
 <a href="https://arxiv.org/" target="_blank" style="margin: 2px;">
   <img alt="Paper" src="https://img.shields.io/badge/📖_Paper-Arxiv-327DE6?style=flat-square&labelColor=2C3E50" style="display: inline-block; vertical-align: middle;"/>
 </a>
-<a href="ttps://huggingface.co/datasets/MiniMaxAI/SynLogic" target="_blank" style="margin: 2px;">
+<a href="https://huggingface.co/datasets/MiniMaxAI/SynLogic" target="_blank" style="margin: 2px;">
   <img alt="Hugging Face" src="https://img.shields.io/badge/🤗_HF-Data-327DE6?style=flat-square&labelColor=2C3E50" style="display: inline-block; vertical-align: middle;"/>
 </a>
 </div>
