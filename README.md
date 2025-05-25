@@ -1,3 +1,23 @@
+<div align="center">
+  <picture>
+    <source srcset="assets/minimax-logo.png" media="(prefers-color-scheme: dark)">
+      <img src="assets/minimax-logo.png" width="60%" alt="MiniMax">
+    </source>
+  </picture>
+</div>
+<hr>
+
+<div align="center" style="line-height: 1;">
+<a href="https://arxiv.org/" target="_blank" style="margin: 2px;">
+  <img alt="Paper" src="https://img.shields.io/badge/📖_Paper-Arxiv-327DE6?style=flat-square&labelColor=2C3E50" style="display: inline-block; vertical-align: middle;"/>
+</a>
+<a href="https://huggingface.co/MiniMaxAI" target="_blank" style="margin: 2px;">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/🤗_HF-Data-327DE6?style=flat-square&labelColor=2C3E50" style="display: inline-block; vertical-align: middle;"/>
+</a>
+</div>
+
+<hr>
+
 # SynLogic
 
 This repository contains the code and data for SynLogic, a comprehensive logical reasoning data synthesis framework that generates diverse, verifiable reasoning data at scale. Our work addresses the critical gap in high-quality logical reasoning training data for developing general reasoning capabilities in Large Language Models (LLMs).
@@ -56,15 +76,7 @@ python scripts/arrow_maze.py \
 
 
 
-## 🙏 Acknowledgments
 
-We thank all our colleagues at MiniMAX for their invaluable contributions to developing the SynLogic framework and dataset. Special thanks to:
-
-**MiniMAX Team**: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Mozhi Zhang, Pengyu Zhao, and Junjie Yan for their dedicated work on data synthesis, framework development.
-
-**Academic Collaborators**: Shiqi Chen from The City University of Hong Kong for valuable insights and contributions to the research.
-
-**HKUST NLP Team**: Junxian He for research guidance and supervision throughout the project.
 
 ## 🔄 Future Updates
 
