@@ -1,1 +1,0 @@
-Please refer to the [推理任务分类](https://vrfi1sk8a0.feishu.cn/wiki/XiN3w2GJbihaelk3FyIcWWHkneM) for more details.
