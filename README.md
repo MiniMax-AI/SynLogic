@@ -8,7 +8,7 @@
 <hr>
 
 <div align="center" style="line-height: 1;">
-<a href="https://arxiv.org/" target="_blank" style="margin: 2px;">
+<a href="https://arxiv.org/abs/2505.19641" target="_blank" style="margin: 2px;">
   <img alt="Paper" src="https://img.shields.io/badge/📖_Paper-Arxiv-327DE6?style=flat-square&labelColor=2C3E50" style="display: inline-block; vertical-align: middle;"/>
 </a>
 <a href="https://huggingface.co/datasets/MiniMaxAI/SynLogic" target="_blank" style="margin: 2px;">
@@ -47,7 +47,7 @@ This repository contains the code and data for SynLogic, a comprehensive logical
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_REPO/SynLogic.git
+git clone https://github.com/MiniMax-AI/SynLogic.git
 cd SynLogic
 pip install -r requirements.txt
 ```
@@ -84,4 +84,17 @@ We are actively working on expanding SynLogic with more logical reasoning tasks.
 
 Follow our repository for the latest updates and releases!
 
+## Citation
+Please cite our paper if you find our work helpful:
 
+```bibtex
+@misc{liu2025synlogic,
+      title={SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond}, 
+      author={Junteng Liu and Yuanxiang Fan and Zhuo Jiang and Han Ding and Yongyi Hu and Chi Zhang and Yiqi Shi and Shitong Weng and Aili Chen and Shiqi Chen and Yunan Huang and Mozhi Zhang and Pengyu Zhao and Junjie Yan and Junxian He},
+      year={2025},
+      eprint={2505.19641},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2505.19641}, 
+}
+```
