@@ -409,8 +409,8 @@ class BooleanExpressions(Game):
             # 生成问题数据
             question, answer = self.generate_problem(curr_lang)
             
-            # 格式化提示
-            question = prompt_template.format(context=question, question=question)
+            # # 格式化提示
+            # question = prompt_template.format(context=question, question=question)
             
             # 添加到列表
             data_list.append(Data(question=question, answer=answer))
