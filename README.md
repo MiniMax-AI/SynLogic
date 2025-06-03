@@ -14,6 +14,9 @@
 <a href="https://huggingface.co/datasets/MiniMaxAI/SynLogic" target="_blank" style="margin: 2px;">
   <img alt="Hugging Face" src="https://img.shields.io/badge/🤗_HF-Data-327DE6?style=flat-square&labelColor=2C3E50" style="display: inline-block; vertical-align: middle;"/>
 </a>
+<a href="https://huggingface.co/collections/MiniMaxAI/synlogic-6836c3246fca0277657ff032" target="_blank" style="margin: 2px;">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/🤗_HF-Model-327DE6?style=flat-square&labelColor=2C3E50" style="display: inline-block; vertical-align: middle;"/>
+</a>
 </div>
 
 <hr>
@@ -72,10 +75,16 @@ python scripts/arrow_maze.py \
 ### Datasets
 | Dataset Name | Description | Link |
 |:------------:|:------------|:----:|
-| **SynLogic** | Training dataset | [🤗 HuggingFace](https://huggingface.co/datasets/MiniMaxAI/SynLogic) |
+| **SynLogic** | Dataset | [🤗 HuggingFace](https://huggingface.co/datasets/MiniMaxAI/SynLogic) |
 
 
 
+### Models
+| Dataset Name | Description | Link |
+|:------------:|:------------|:----:|
+| **SynLogic-7B** | Model | [🤗 HuggingFace](hhttps://huggingface.co/MiniMaxAI/SynLogic-7B) |
+| **SynLogic-32B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-32B) |
+| **SynLogic-Mix-3-32B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-Mix-3-32B) |
 
 
 ## 🔄 Future Updates
