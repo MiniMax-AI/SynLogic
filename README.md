@@ -30,7 +30,11 @@ This repository contains the code and data for SynLogic, a comprehensive logical
 </p> 
 
 ## News
-- :fire: [05/2025] We are excited to release the resources for the paper "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
+- **[2025/06/03]** :fire: Trained Models Released on Hugging Face 
+Access our verified reasoning models:  
+→ [MiniMaxAI/SynLogic Collection](https://huggingface.co/collections/MiniMaxAI/synlogic-6836c3246fca0277657ff032)  
+
+- **[2025/05]** :fire: We are excited to release the resources for the paper "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
 
 ## 📋 Overview
 
@@ -80,12 +84,13 @@ python scripts/arrow_maze.py \
 
 
 ### Models
-| Dataset Name | Description | Link |
-|:------------:|:------------|:----:|
-| **SynLogic-7B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-7B) |
-| **SynLogic-32B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-32B) |
-| **SynLogic-Mix-3-32B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-Mix-3-32B) |
 
+
+| Model Name | Description | Link |
+|:-----------|:------------|:----:|
+| **SynLogic-7B** | 7B model trained on SynLogic | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-7B) |
+| **SynLogic-32B** | 32B model trained on SynLogic | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-32B) |
+| **SynLogic-Mix-3-32B** | 32B model trained on mixed SynLogic, Math, Coding data | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-Mix-3-32B) |
 
 ## 🔄 Future Updates
 
