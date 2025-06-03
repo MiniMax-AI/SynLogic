@@ -30,8 +30,7 @@ This repository contains the code and data for SynLogic, a comprehensive logical
 </p> 
 
 ## News
-- **[2025/06/03]** :fire: Trained Models Released on Hugging Face 
-Access our verified reasoning models:  
+- **[2025/06/03]** :fire: Trained Models Released on Hugging Face:  
 → [MiniMaxAI/SynLogic Collection](https://huggingface.co/collections/MiniMaxAI/synlogic-6836c3246fca0277657ff032)  
 
 - **[2025/05]** :fire: We are excited to release the resources for the paper "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
