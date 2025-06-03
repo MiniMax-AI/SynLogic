@@ -82,7 +82,7 @@ python scripts/arrow_maze.py \
 ### Models
 | Dataset Name | Description | Link |
 |:------------:|:------------|:----:|
-| **SynLogic-7B** | Model | [🤗 HuggingFace](hhttps://huggingface.co/MiniMaxAI/SynLogic-7B) |
+| **SynLogic-7B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-7B) |
 | **SynLogic-32B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-32B) |
 | **SynLogic-Mix-3-32B** | Model | [🤗 HuggingFace](https://huggingface.co/MiniMaxAI/SynLogic-Mix-3-32B) |
 
